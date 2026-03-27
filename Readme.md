@@ -1,0 +1,1 @@
+Novo projeto, ensina a usar o git
